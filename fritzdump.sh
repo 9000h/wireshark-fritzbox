@@ -7,7 +7,7 @@ fi
 
 WGET=/usr/bin/wget
 FRITZ_IP=$1
-FRITZ_USER="bernd"
+FRITZ_USER=""
 FRITZ_IFACE="1-lan"
 
 SIDFILE="/tmp/fritz.sid"
